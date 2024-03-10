@@ -1,0 +1,13 @@
+- What is the difference between ***var*** and ***let***?
+Var you can redeclare,reassign, and mutate but let you cannot redeclare. Var also has a function scope while let has a block scope.
+
+- What is the difference between **var** and ***const***?
+Const can only be mutated while var can be reassigned,redeclared,and mutated.
+Cosnt also has a block scope.
+
+- What is the difference between **let** and **const**?
+Let you can reassign and mutate while const you can only mutate. 
+
+- What is hoisting?
+
+Hoisting is when variables are declared at the top of the scope. 
